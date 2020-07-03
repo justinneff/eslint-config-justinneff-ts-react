@@ -327,10 +327,10 @@ escape-string-regexp@^1.0.5:
   resolved "https://registry.npmjs.org/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
   integrity sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=
 
-eslint-config-justinneff-ts@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-justinneff-ts/-/eslint-config-justinneff-ts-2.0.0.tgz#426bd029dfd66aaf9903eb112b026390634df195"
-  integrity sha512-yuxt+Cc5SrBWKAEkpqUEaBX4UcTvYeBSX7Peaweo0pFcbqVN8on/FUZ0PBcPHU4oVCR1Mjl1DVJI9jTND/Xjyw==
+eslint-config-justinneff-ts@2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-justinneff-ts/-/eslint-config-justinneff-ts-2.1.0.tgz#7d7d3df763bced140c77bb626009792d41431243"
+  integrity sha512-ZDyLOJgXKmdgYUNe4wjTqJ77qMTphbn0G9DI2gmJhG9DP9MHDe6xdq9gEdDisoCUKvbwDvS6k/5V24cRRyEB2Q==
 
 eslint-config-prettier@^6.11.0:
   version "6.11.0"
