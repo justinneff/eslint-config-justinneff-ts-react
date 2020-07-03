@@ -16,11 +16,12 @@
 		"url": "https://github.com/justinneff/eslint-config-justinneff-ts-react/issues"
 	},
 	"homepage": "https://github.com/justinneff/eslint-config-justinneff-ts-react#readme",
+	"dependencies": {
+		"eslint-config-justinneff-ts": "2.1.1"
+	},
 	"devDependencies": {
 		"@typescript-eslint/eslint-plugin": "^3.4.0",
-		"@typescript-eslint/parser": "^3.4.0",
 		"eslint": "^7.3.1",
-		"eslint-config-justinneff-ts": "2.1.0",
 		"eslint-config-prettier": "^6.11.0",
 		"eslint-plugin-prettier": "^3.1.4",
 		"eslint-plugin-react": "^7.20.0",
@@ -30,9 +31,7 @@
 	},
 	"peerDependencies": {
 		"@typescript-eslint/eslint-plugin": "^3.4.0",
-		"@typescript-eslint/parser": "^3.4.0",
 		"eslint": "^7.3.1",
-		"eslint-config-justinneff-ts": "1.0.0",
 		"eslint-config-prettier": "^6.11.0",
 		"eslint-plugin-prettier": "^3.1.4",
 		"eslint-plugin-react": "^7.20.0",
