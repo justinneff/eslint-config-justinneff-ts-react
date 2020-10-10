@@ -1,6 +1,6 @@
 {
 	"name": "eslint-config-justinneff-ts-react",
-	"version": "1.2.0",
+	"version": "1.3.0",
 	"description": "ESLint and Prettier configs for Typescript + ReactJS by Justin Neff",
 	"main": "index.js",
 	"scripts": {
@@ -17,10 +17,11 @@
 	},
 	"homepage": "https://github.com/justinneff/eslint-config-justinneff-ts-react#readme",
 	"dependencies": {
-		"eslint-config-justinneff-ts": "2.1.1"
+		"eslint-config-justinneff-ts": "2.3.0"
 	},
 	"devDependencies": {
 		"@typescript-eslint/eslint-plugin": "^4.4.0",
+		"@typescript-eslint/parser": "^4.4.0",
 		"eslint": "^7.11.0",
 		"eslint-config-prettier": "^6.12.0",
 		"eslint-plugin-prettier": "^3.1.4",
@@ -31,6 +32,7 @@
 	},
 	"peerDependencies": {
 		"@typescript-eslint/eslint-plugin": "^4.4.0",
+		"@typescript-eslint/parser": "^4.4.0",
 		"eslint": "^7.11.0",
 		"eslint-config-prettier": "^6.12.0",
 		"eslint-plugin-prettier": "^3.1.4",
