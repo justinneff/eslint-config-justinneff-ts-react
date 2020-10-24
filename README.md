@@ -8,7 +8,7 @@ These are the ESLint and Prettier settings I like to use for Typescript and Type
 2. Install `eslint-config-justinneff-ts-react` and it's peer dependencies. (This command works with yarn too)
 
 ```
-npx install-peerdeps eslint-config-justinneff-js-react
+npx install-peerdeps -D eslint-config-justinneff-ts-react
 ```
 
 3. Create a `.eslintrc` file in the root of your project that looks like this:
